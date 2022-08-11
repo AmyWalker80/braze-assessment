@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Sailec;
+    src: url(fonts/sailec_bold-webfont.woff);
+    src: url(fonts/sailec_bold-webfont.woff2);
+    src: url(fonts/sailec_light-webfont.woff);
+    src: url(fonts/sailec_light-webfont.woff2);
+    src: url(fonts/sailec_medium-webfont.woff);
+    src: url(fonts/sailec_medium-webfont.woff2);
+}
+
+body {
+    font-family: "Sailec", Tahoma, sans-serif;
+    color: #252525;
+
+}
+
+h1, h2, h3 {
+    color: #27368F;
+}
